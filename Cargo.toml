@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Scott Beck <scottbeck@gmail.com>"]
 description = "Rust markdown chunking library for generative SLMs"
 license = "MIT"
-repository = "https://github.com/devwits-ai/gcmd.git"
+repository = "https://github.com/devwits-ai/gcmd"
 
 [dependencies]
 tokenizers = { version = "0.21.0", features = ["http"] }
